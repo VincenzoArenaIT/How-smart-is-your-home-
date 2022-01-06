@@ -14,14 +14,18 @@ The smart home market in Italy is growing at a dizzying pace. To reinforce this 
 Through the information provided by users, a score will be given on how smart your home is and suggestions will be given on how to increase this rating by highlighting what is missing and what is present, thus recommending the best tech solutions to increase energy efficiency and the home automation of your home according to your needs and financial resources, in fact through filters it will be possible to set the minimum or maximum budget that you are willing to spend.
 
 Through an online price comparator, the tech solutions with the best quality / price ratio will be suggested and you will receive advice on how to install them or who to contact to do it.
-
-
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
+The type of AI is a simple Narrow AI that through the data provided elaborates a score.
+
+The score value will be devised by the project developers based on the importance of the smart implementation in the home.
 ## Challenges
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This tool could have difficulty in reaching the less digitized groups of citizens with the risk of being a help tool for people already passionate about technology.
+
+Furthermore, considering the fact that those who would use this app / web site, should make changes in their home that often to reach the highest score, (in the home automation level), will require a not insignificant outlay of money, it could be limiting from this point of view.
+
+Not to forget the risk of entrusting the safety and well-being of ourselves and of our family entirely to technology and the related cybersecurity related problems that could occur.
 ## What next?
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+ The next step could be the foundation of a company that deals with installing tech solutions in homes, based on the software previously developed for the app / website of this project.
 ## Acknowledgments
-* list here the sources of inspiration 
+#ciao
+*ciao
