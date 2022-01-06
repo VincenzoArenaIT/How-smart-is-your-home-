@@ -19,7 +19,7 @@ The type of AI is a simple Narrow AI that through the data provided elaborates a
 
 The score value will be devised by the project developers based on the importance of the smart implementation in the home.
 ## Challenges
-This tool could have difficulty in reaching the less digitized groups of citizens with the risk of being a help tool for people already passionate about technology.
+This tool could have difficulty in reaching the less digitalized groups of citizens with the risk of being a help tool for people already passionate about technology.
 
 Furthermore, considering the fact that those who would use this app / web site, should make changes in their home that often to reach the highest score, (in the home automation level), will require a not insignificant outlay of money, it could be limiting from this point of view.
 
