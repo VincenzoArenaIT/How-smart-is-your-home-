@@ -23,7 +23,7 @@ This tool could have difficulty in reaching the less digitalized groups of citiz
 
 Furthermore, considering the fact that those who would use this app / web site, should make changes in their home that often to reach the highest score, (in the home automation level), will require a not insignificant outlay of money, it could be limiting from this point of view.
 
-Not to forget the risk of entrusting the safety and well-being of ourselves and of our family entirely to technology and the related cybersecurity related problems that could occur.
+Not to forget the risk of entrusting the safety and well-being of ourselves and of our family entirely to technology and the related cybersecurity problems that could occur.
 ## What next?
  The next step could be the foundation of a company that deals with installing tech solutions in homes, based on the software previously developed for the app / website of this project.
 ## Acknowledgments
