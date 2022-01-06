@@ -27,5 +27,5 @@ Not to forget the risk of entrusting the safety and well-being of ourselves and 
 ## What next?
  The next step could be the foundation of a company that deals with installing tech solutions in homes, based on the software previously developed for the app / website of this project.
 ## Acknowledgments
-#ciao
-*ciao
+Source used for the informations:
+https://www.smartdomotica.it/smart-home-in-italia
