@@ -11,22 +11,17 @@ In Italy in 2018, according to the Internet of Things Observatory of the Politec
 
 The smart home market in Italy is growing at a dizzying pace. To reinforce this assumption there are also other data relating to the population. For example, about 60% of Italians have heard of a connected home and almost 1 in 2 people have a smart device (most have a security device, such as IP cameras or motion sensors). In addition, the market is moving more and more towards “do it yourself” solutions. In fact, although the market share relating to installers and home automation professionals still maintains a preponderant role, it has gone from a market share of 70% in 2017 to 50% in 2018. Therefore, both online and offline retailers have experienced a significant increase in sales, especially of smart speakers.
 ## How is it used?
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account
+Through the information provided by users, a score will be given on how smart your home is and suggestions will be given on how to increase this rating by highlighting what is missing and what is present, thus recommending the best tech solutions to increase energy efficiency and the home automation of your home according to your needs and financial resources, in fact through filters it will be possible to set the minimum or maximum budget that you are willing to spend.
+
+Through an online price comparator, the tech solutions with the best quality / price ratio will be suggested and you will receive advice on how to install them or who to contact to do it.
+
+
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 ## Challenges
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 ## What next?
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 ## Acknowledgments
 * list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
